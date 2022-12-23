@@ -1,2 +1,2 @@
 # Advent-of-Code
-In this repository you can find my answer to the Advent of Code Tasks of 2022. 
+In this repository you can find my answers to the tasks of Advent of Code 2022. 
